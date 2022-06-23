@@ -1,0 +1,25 @@
+{
+  "name": "node_authentication_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M-Muhammad-Faraz/node_authentication.git"
+  },
+  "keywords": [
+    "node",
+    "authentication",
+    "cypher",
+    "database"
+  ],
+  "author": "Mian Muhammad Faraz (ZAX)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M-Muhammad-Faraz/node_authentication/issues"
+  },
+  "homepage": "https://github.com/M-Muhammad-Faraz/node_authentication#readme"
+}
